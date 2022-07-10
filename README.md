@@ -1,14 +1,14 @@
 
 
 ### Hi there, I'm Destiny! 👋
-- 💃🏻 I'm a Frontend developer
+- 💃🏻 I'm a self-taught Frontend developer who's eager to learn.
 - 🌱 I’m currently learning full stack web development while sharpening my skills in JavaScript and React. 
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
      - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
      - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
 - 💞️ I’m looking to collaborate on all kinds of web projects
 - 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
-- 😄 Pronouns: He/His
+- 😄 Hobbies: Photography, music, reading manga and anime.
 
 <hr>
 
