@@ -4,8 +4,8 @@
 - 💃🏻 I'm a self-taught Frontend developer who's eager to learn.
 - 🌱 I’m currently learning full stack web development while sharpening my skills in JavaScript and React. 
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
-     - Rebel coders form (https://destinyarupi.github.io/Rebel-Coders/)
-     - Huddle landing page (https://destinyarupi.github.io/Huddle-landing-page/)
+     - [Rebel coders form](https://destinyarupi.github.io/Rebel-Coders/)
+     - [Huddle landing page](https://destinyarupi.github.io/Huddle-landing-page/)
 - 💞️ I’m looking to collaborate on all kinds of web projects.
 - 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
 - 🙍‍♂️ Pronouns: He/His.
