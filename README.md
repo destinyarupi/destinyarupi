@@ -1,4 +1,4 @@
-
+<img src="https://github.com/destinyarupi/destinyarupi/blob/main/banner%20(1).png?raw=true" alt="banner">
 
 ### Hi there, I'm Destiny! 👋
 - 💃🏻 I'm a self-taught Frontend developer who's eager to learn.
@@ -6,8 +6,9 @@
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
      - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
      - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
-- 💞️ I’m looking to collaborate on all kinds of web projects
+- 💞️ I’m looking to collaborate on all kinds of web projects.
 - 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
+- 🙍‍♂️ Pronouns: He/His.
 - 😄 Hobbies: Photography, music, reading manga and anime.
 
 <hr>
@@ -43,8 +44,8 @@
   
 <hr>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=destinyarupi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="destinyarupi" /></p>
+<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=destinyarupi&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="destinyarupi" /></span>
 
 
 <!---
