@@ -4,8 +4,8 @@
 - 💃🏻 I'm a self-taught Frontend developer who's eager to learn.
 - 🌱 I’m currently learning full stack web development while sharpening my skills in JavaScript and React. 
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
-     - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
-     - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
+     - to be filled
+     - to be filled
 - 💞️ I’m looking to collaborate on all kinds of web projects.
 - 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
 - 🙍‍♂️ Pronouns: He/His.
@@ -45,7 +45,7 @@
 <hr>
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></span>
-<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></span>
+<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></span>
 
 
 
