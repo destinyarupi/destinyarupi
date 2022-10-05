@@ -1,8 +1,8 @@
 <img src="https://github.com/destinyarupi/destinyarupi/blob/main/banner%20(1).png?raw=true" alt="banner">
 
 ### Hi there, I'm Destiny! 👋
-- 💃🏻 I'm a self-taught Frontend developer who's eager to learn.
-- 🌱 I’m currently learning full stack web development while sharpening my skills in JavaScript and React. 
+- ✨ I'm a self-taught Frontend developer who's eager to learn.
+- 🌱 I work well with HTML, CSS, Bootstrap and JavaScript, I'm currently learning React.
 - 💞️ I’m looking to collaborate on all kinds of web projects.
 - 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
 - 🙍‍♂️ Pronouns: He/His.
