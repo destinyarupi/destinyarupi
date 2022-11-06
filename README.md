@@ -26,10 +26,10 @@
 <h3 align="left">Projects:</h3>
 <p>Hey, if you've got the time check out some of my recent work.</p>
 <ul>
-    <li> JavaScript projects: This is a little something I worked on, a basic website built using bootstrap showcasing a variety of JavaScript projects I've worked on. Click <a href="https://arupi-js-projects.netlify.app/">here</a> to view. </li>
-    <li> NotesApp: This project was built using html, css and vanilla JS. Click <a href="https://arupi-notesapp.netlify.app/">here</a> to view. </li>
-    <li> QReate: This project was built using bootstrap, it's a multi-page site for QR code generation called QReate. Click <a href="https://qreate.netlify.app/">here</a> to view. </li>
-    <li> Huddle: This project was built using html and css, it's a basic site from frontend challenge to help brush up on your skills. Click <a href="https://destinyarupi.github.io/Huddle/">here</a> to view. </li>
+    <li> JavaScript projects: This is a little something I worked on, a basic website built using bootstrap showcasing a variety of JavaScript projects I've worked on. Click <a href="https://arupi-js-projects.netlify.app/" target="_blank">here</a> to view. </li>
+    <li> NotesApp: This project was built using html, css and vanilla JS. Click <a href="https://arupi-notesapp.netlify.app/" target="_blank">here</a> to view. </li>
+    <li> QReate: This project was built using bootstrap, it's a multi-page site for QR code generation called QReate. Click <a href="https://qreate.netlify.app/" target="_blank">here</a> to view. </li>
+    <li> Huddle: This project was built using html and css, it's a basic site from frontend challenge to help brush up on your skills. Click <a href="https://destinyarupi.github.io/Huddle/" target="_blank">here</a> to view. </li>
 </ul>
 
 <hr>
