@@ -7,6 +7,7 @@
 - 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
 - 🙍‍♂️ Pronouns: He/His.
 - 😄 Hobbies: Photography, music, reading manga and anime.
+- Portfolio: [DestinyArupi](https://destinyarupi.vercel.app)
 
 <hr>
 
