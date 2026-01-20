@@ -1,61 +1,61 @@
-<img src="https://github.com/destinyarupi/destinyarupi/blob/main/banner%20(1).png?raw=true" alt="banner">
+<img src="https://github.com/destinyarupi/destinyarupi/blob/main/WhatsApp%20Image%202025-12-22%20at%2001.28.02.jpeg" alt="banner">
 
-### Hi there, I'm Destiny! 👋
-- ✨ I'm a self-taught Frontend developer who's eager to learn.
-- 🌱 I work well with HTML, CSS, Bootstrap and JavaScript, I'm currently learning React.
-- 💞️ I’m looking to collaborate on all kinds of web projects.
-- 📫 How to reach me: destinyarupi@gmail.com || [CodePen](https://codepen.io/destinyarupi/)
-- 🙍‍♂️ Pronouns: He/His.
-- 😄 Hobbies: Photography, music, reading manga and anime.
-- Portfolio: [DestinyArupi](https://destinyarupi.vercel.app)
+# Hi there, I'm Destiny! 👋
+### AI Automation Engineer | n8n Specialist | Systems Architect
 
-<hr>
+> "Most businesses don't hit a ceiling because of demand — they hit it because operations can't scale."
 
-<h3 align="left">My Current Skillset:</h3>
-<div align="center">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /> 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />     
-</div>
+I design and build intelligent automation systems that eliminate manual friction. I specialize in replacing repetitive operational overhead with autonomous **n8n workflows** and **AI Agents**.
 
-<hr>
+---
 
-<h3 align="left">Projects:</h3>
-<p>Hey, if you've got the time check out some of my recent work.</p>
-<ul>
-    <li> Catch up: A website for planning events and managing your calendar. Built with bootstrap and react. Click <a href='https://project-catchup.vercel.app'>here</a> to view the live site. </li>
-    <li> JavaScript projects: This is a little something I worked on, a basic website built using bootstrap showcasing a variety of JavaScript projects I've worked on. Click <a href="https://arupi-js-projects.netlify.app/" target="_blank">here</a> to view. </li>
-    <li> NotesApp: This project was built using html, css and vanilla JS. Click <a href="https://arupi-notesapp.netlify.app/" target="_blank">here</a> to view. </li>
-    <li> QReate: This project was built using bootstrap, it's a multi-page site for QR code generation called QReate. Click <a href="https://qreate.netlify.app/" target="_blank">here</a> to view. </li>
-    <li> Huddle: This project was built using html and css, it's a basic challenge from frontend mentor to help brush up on skills. Click <a href="https://destinyarupi.github.io/Huddle/" target="_blank">here</a> to view. </li>
-</ul>
+## 🛠️ The Problem I Solve
+If you are committing code to a repo, you shouldn't be copy-pasting data manually in your business. I help scaling coaches and service businesses who are stuck doing this:
 
-<hr>
+- ❌ **15+ hrs/week** on manual client onboarding
+- ❌ Sending repetitive email follow-ups manually
+- ❌ Acting as a human API between 5+ different tools
+- ❌ Creating static reports that don't drive decisions
 
-<h3 align="left">Connect with me<h3>  
-<div align="center">
-  <a href="https://www.linkedin.com/in/destiny-arupi-a97940234/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-  <a href="https://mobile.twitter.com/DestinyArupi" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://web.facebook.com/Destinyarupi" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/destinyarupi_/?hl=en" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-</div>  
-  
-<hr>
+## 🚀 How I Fix It
+I refactor business operations into code and workflows.
+**My Goal:** Move you from "Human-in-the-loop" for everything, to "Human-on-the-loop" for strategy.
 
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></span>
-<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=destinyarupi&show_icons=true&locale=en&theme=github_dark" alt="destinyarupi" /></span>
+### My Tech Stack
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
+---
+
+## ⚡ What I Build
+I don't just zap data from A to B. I build systems that handle logic.
+
+1.  **Autonomous Onboarding:** Full stack integration from payment → contract → course access → welcome sequence.
+2.  **AI Agents:** Intelligent bots that handle routing, logic, and draft responses based on context, not just keywords.
+3.  **Workflow Audits:** Identifying bottlenecks in your current tech stack (API limitations, logic gaps).
+
+## 📈 Use Cases
+I primarily engineer solutions for:
+* **Coaches** scaling from 1-on-1 to Group/Digital programs.
+* **Service Agencies** drowning in operational overhead.
+* **Lean Teams** wanting to scale revenue without bloating headcount.
+
+---
+
+### 📫 Connect & Collaborate
+
+Every manual task is a bug in your business logic. Let's fix it.
+
+- 💼 **LinkedIn:** [Destiny Arupi](https://www.linkedin.com/in/destiny-arupi/)
+- 🌐 **X:** [Destinyarupi_](https://x.com/Destinyarupi_)
+- 📧 **Email:** [@destinyarupi.gmail.com](mailto:destinyarupi@gmail.com)
+
+> **Open to freelance or contract work.**
+> *Send me a DM with "WORKFLOW" on LinkedIn for a free operational audit checklist.*
+
 
 
 
