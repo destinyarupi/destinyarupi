@@ -1,4 +1,4 @@
-<img src="https://github.com/destinyarupi/destinyarupi/blob/main/WhatsApp%20Image%202025-12-22%20at%2001.28.02.jpeg" alt="banner">
+<img src="https://github.com/destinyarupi/destinyarupi/blob/main/1500x500.jpeg" alt="banner">
 
 # Hi there, I'm Destiny! 👋
 ### AI Automation Engineer | n8n Specialist | Systems Architect
